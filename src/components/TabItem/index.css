@@ -1,0 +1,43 @@
+.tab-item-name {
+  font-size: 20px;
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-top: 30px;
+  /*text-decoration: underline;
+  text-underline-offset: 9.3px;
+  text-decoration-thickness: 2px;*/
+}
+
+.tab-button {
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #dfe2e5;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 4px;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.button {
+  border: 0px;
+  background-color: transparent;
+}
+
+.underline {
+  border-bottom: 1px solid #000000;
+  width: 100px;
+  padding-bottom: 5px;
+}
+
+.active {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 8px;
+}
